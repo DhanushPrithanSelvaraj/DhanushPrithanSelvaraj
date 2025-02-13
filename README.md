@@ -1,47 +1,37 @@
 Hello there, I'm DHANUSH PRITHAN SELVARAJ 🌍
 
-I aim to push the boundaries of automation and innovation in the Industry 4.0 era. I am currently pursuing my M.Eng. in Industry 4.0: Automation, Robotics, & 3D Manufacturing at SRH Hochschule, Berlin, and expected conferral date is September 2025.
+Welcome to my journey of integrating robotics, automation, and data-driven solutions to optimize industrial processes. With expertise in mechatronics, Industry 4.0 technologies, and machine learning, I am committed to driving innovation in smart manufacturing and intelligent systems. Currently pursuing my M.Eng. in Engineering and Sustainable Technology Management – Industry 4.0: Automation, Robotics & 3D Manufacturing at SRH Hochschule, Berlin, I am passionate about leveraging cutting-edge technologies to solve real-world challenges in industrial automation.
 
 # 🔍 About Me
-📚 I am an engineering professional with a B.E. in Mechatronics Engineering and hands-on experience in Python programming, machine learning, and CAD.
-🌐 Skilled in operating Robots, performing troubleshoot, and delivering problem-solving solutions.
-📊 Adept at combining technical expertise with business acumen to support decision-making and foster innovation.
+📚 Engineering Professional with a B.Eng. in Mechatronics Engineering and hands-on experience in robotics, automation, and industrial applications.
+🤖 Experienced in robotic systems, including igus Robot Control, PLC programming, and intelligent motion control.
+🔬 Skilled in additive manufacturing, predictive modeling, and designing mechanical systems using tools like Autodesk Inventor and Ansys Workbench.
 
 # 🎯 Career Aspirations
-I am driven to leverage my technical skills in roles that operates Robot, automation, and manufacturing technologies. 
+I am eager to apply my technical expertise in roles at the intersection of robotics, automation, and data-driven manufacturing. My aspirations include:
+
+🤖 Robotics Engineer: Developing and optimizing robotic systems for industrial automation.
+📈 Data & Automation Specialist: Implementing AI-driven predictive maintenance and process optimization.
+🔍 Industry 4.0 Engineer: Integrating smart technologies for intelligent manufacturing and digital transformation.
 
 # 💼 My Skills
-**Engineering Software:**
--  Python
-*  Autodesk
-+  Ansys-Workbench
-*  Solidworks
-+  Autodesk Inventor(AutoCAD) 
-*  Catia V5
-+  Fusion 360
+**Programming & Tools::**
+- 🐍 Python, R-Programming
+* 💾 SQL, MATLAB
++ 📊 Power BI, Microsoft Packages
 
-**Programming Language:**
-- R-Program 
-* Python
-+ Matlab
+**Industry 4.0 & Robotics::**
+- 🤖 igus Robot Control V13, V14
+* 🔌 Siemens PLC Programming & TIA Portal
++ 📡 Mechatronics: Arduino, Motor & Sensor Integration
 
 **Libraries:**
 - Pandas
 + Numpy
 
-**Mechatronics:**
-- Aurdino
-* basic motor and sensor integration
-
-**3D Printing Software:**
-- Autodesk-NetFabb
-* nTop
-
-**Robotic Software:**
-- igus Robot Control V13, V14
-
-**Siemens:**
-- Level 1 & 2 Certification, Basic PLC programming and TIA portal workflow.
+**Mechanical & Additive Manufacturing::**
+- 🏗️ Autodesk Inventor (AutoCAD), Siemens NX, Fusion 360, Catia V5
+* 🔬 Ansys Workbench, nTop, Autodesk NetFabb
 
 **Languages:**
 - English: C1 Level
@@ -49,12 +39,10 @@ I am driven to leverage my technical skills in roles that operates Robot, automa
 - Tamil: Native Speaker
 
 # 📫 Let's Connect
-I'm always eager to connect with fellow data enthusiasts and spatial thinkers. Don't hesitate to reach out to me through:
+I am always open to networking and discussing opportunities in automation, robotics, and smart manufacturing. Feel free to connect with me:
 
 - **📧 Email:** dhanushprithan.s@gmail.com
 * **💼 LinkedIn:** [linkedin.com/in/dhanush-prithan-83892b16b]
 
-# 🚀 Charting the Future
-🚀 As I advance my journey in Industry 4.0 and Robotic operations, I am passionate about building a smarter and more sustainable future through technology. Let’s connect and collaborate on impactful projects! 🌍📊🔧
-
-Let's embark on this data-driven voyage together! 🌐📈🌍🧠
+# 🚀 Shaping the Future
+🚀 As I advance in Industry 4.0 and intelligent automation, I am committed to developing cutting-edge solutions that drive efficiency and sustainability in modern manufacturing. Let’s collaborate and innovate together! 🌍🔧📊
