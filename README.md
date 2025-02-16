@@ -16,7 +16,7 @@ I am eager to apply my technical expertise in roles at the intersection of robot
 
 # 💼 My Skills
 **Programming & Tools::**
-- 🐍 Python, R-Programming
+- 🐍 Python, R-Programming, ROS
 * 💾 SQL, MATLAB
 + 📊 Power BI, Microsoft Packages
 
