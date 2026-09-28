@@ -42,7 +42,7 @@ I am eager to apply my technical expertise in roles at the intersection of robot
 I am always open to networking and discussing opportunities in automation, robotics, and smart manufacturing. Feel free to connect with me:
 
 - **📧 Email:** dhanushprithan.s@gmail.com
-* **💼 LinkedIn:** [linkedin.com/in/dhanush-prithan-83892b16b]
+* **💼 LinkedIn:** [www.linkedin.com/in/dhanush-prithan-selvaraj]
 
 # 🚀 Shaping the Future
 🚀 As I advance in Industry 4.0 and intelligent automation, I am committed to developing cutting-edge solutions that drive efficiency and sustainability in modern manufacturing. Let’s collaborate and innovate together! 🌍🔧📊
